@@ -31,12 +31,4 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    /*override fun onCreateView(name: String, context: Context, attrs: AttributeSet): View? {
-        return super.onCreateView(name, context, attrs)
-        val buttonAdicionar: Button = findViewById(R.id.Adicione)
-        val buttonDimunui: Button = findViewById(R.id.button2)
-        val text = findViewById<TextView>(R.id.textView)
-    }*/
-
-
 }
